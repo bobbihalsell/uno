@@ -1,0 +1,18 @@
+In one standard UNO deck you’ll find 108 cards:
+25 cards of each colour (green, red, blue and yellow).
+
+    19 number cards (1 zero and 2 of each number up to 9)
+    2 reverse cards.
+    2 skip cards.
+    2 draw 2 cards.
+    4 wild draw 4 cards.
+    4 wild cards.
+
+To start game
+
+INITIALISE BY PLAYER NUMBER 
+
+ASSIGN EVERY PLAYER 7 CARDS 
+    remove from deck
+
+CREATE FUNCTION FOR ALL CARDS as methods
